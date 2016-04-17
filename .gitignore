@@ -1,0 +1,10 @@
+.eunit
+deps
+*.o
+*.beam
+erl_crash.dump
+.DS_Store
+emake.erl
+gen_proto/ebin
+*.ini
+*.pyc

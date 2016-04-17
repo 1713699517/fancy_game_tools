@@ -1,0 +1,12 @@
+{
+	[
+		'./*'
+		,'cfg/*'
+	]
+	,[
+		debug_info
+		,{hipe, [o3]}
+		,{i, "./inc"}
+		,{outdir, "./ebin"}
+	]
+}.
